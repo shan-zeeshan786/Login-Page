@@ -1,0 +1,58 @@
+*{
+    margin: 0px;
+    padding: 0px;
+  
+}
+
+.resi{
+    width: 50%;
+    margin-top: 10%;
+    filter: drop-shadow(10px 20px 20px gray);
+    margin-bottom: 1%;
+
+}
+.display{
+    background-color: blanchedalmond;
+    margin: 15% 20% 30%;
+    filter: drop-shadow(10px 20px 20px gray);
+
+}
+.lds{
+    
+    filter: drop-shadow(10px 20px 20px);
+
+}
+.Login{
+ margin: 5% 30% 100%;   
+ 
+ border-style: solid;
+ /* border-color: gray;   */
+ background-color: blanchedalmond; 
+ color:blanchedalmond;
+ filter: drop-shadow(10px 10px 20px gray);
+
+}
+.sub{
+    border-style: solid;
+    border-color: blanchedalmond;
+    margin-bottom: 4%;
+    background-color: black;
+    color: blanchedalmond;
+    padding: 5% 8% ;
+    width: 40%;
+    
+
+}
+.password{
+    margin: 3%;
+    width: 50%;
+    line-height: 150%;
+
+}
+
+body
+{
+    color: rgb(112, 80, 25);
+    text-align: center;
+    background-color: rgb(193, 230, 240);
+}
