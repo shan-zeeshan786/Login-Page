@@ -7,7 +7,7 @@
 .resi{
     width: 50%;
     margin-top: 10%;
-    filter: drop-shadow(10px 20px 20px gray);
+    filter: drop-shadow(2px 2px 2px gray);
     margin-bottom: 1%;
 
 }
@@ -29,7 +29,7 @@
  /* border-color: gray;   */
  background-color: blanchedalmond; 
  color:blanchedalmond;
- filter: drop-shadow(10px 10px 20px gray);
+ filter: drop-shadow(2px 2px 2px gray);
 
 }
 .sub{
@@ -40,7 +40,7 @@
     color: blanchedalmond;
     padding: 5% 8% ;
     width: 40%;
-    
+    filter: drop-shadow(2px 2px 2px gray);    
 
 }
 .password{
@@ -55,4 +55,8 @@ body
     color: rgb(112, 80, 25);
     text-align: center;
     background-color: rgb(193, 230, 240);
+}
+
+.sub:hover{
+    background-color: #66BFBF;
 }
