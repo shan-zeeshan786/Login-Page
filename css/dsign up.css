@@ -5,25 +5,26 @@
 }
 
 .resi{
-    width: 30%;
+    width: 50%;
     margin-top: 10%;
     filter: drop-shadow(2px 2px 2px gray);
     margin-bottom: 1%;
 
 }
 .display{
-    background-color: blanchedalmond;
-    margin: 15% 20% 30%;
+    /* background-color: blanchedalmond; */
+    margin: 15% 20% 10%;
     filter: drop-shadow(10px 20px 20px gray);
 
 }
 .lds{
-    
+    margin: 10% auto 20%;
     filter: drop-shadow(10px 20px 20px);
+    color: rgb(112, 80, 25);
 
 }
 .Login{
- margin: 5% 30% 100%;   
+ margin: 5% 20% 0%;   
  
  border-style: solid;
  /* border-color: gray;   */
